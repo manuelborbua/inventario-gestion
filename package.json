@@ -1,0 +1,25 @@
+{
+  "name": "inventario-gestion",
+  "version": "1.0.0",
+  "description": "Un gestor de inventarios escalable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelborbua/inventario-gestion.git"
+  },
+  "keywords": [],
+  "author": "Manuel Borbua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelborbua/inventario-gestion/issues"
+  },
+  "homepage": "https://github.com/manuelborbua/inventario-gestion#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "postgresql": "^0.0.1"
+  },
+  "devDependencies": {}
+}
